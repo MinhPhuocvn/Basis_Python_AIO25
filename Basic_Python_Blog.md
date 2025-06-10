@@ -14,7 +14,7 @@ In Python, these basic data types are used to store numbers, text, and logical v
 | `String`     | Sequence of characters | `"Hello"`, `'Python'` |
 | `Boolean`    | Logical values: true or false | `True`, `False` |
 
-## List in Python
+## 2. List in Python
 A **list** is a collection used to store multiple items in a single variable.  
 Lists can contain elements of any data type, and the items are **ordered and changeable**.
 
@@ -29,7 +29,7 @@ fruits = ["apple", "banana", "cherry"]
 print(fruits[0])  # Output: apple
 ```
 
-## Dictionary in Python
+## 3. Dictionary in Python
 A **dictionary** is a collection of key-value pairs.  
 Each item in a dictionary has a **key** and a **value**, and the key is used to access the value.  
 Dictionaries are **unordered**, **changeable**, and do not allow duplicate keys.
@@ -53,7 +53,7 @@ student = {
 print(student["name"])  # Output: Alice
 ```
 
-## Functions in Python
+## 4. Functions in Python
 A **function** is a reusable block of code that performs a specific task.  
 Functions help make your code organised, readable, and avoid repetition.
 
@@ -88,11 +88,11 @@ print(result)  # Output: 8
 - Indentation (usually 4 spaces) is required to define the function body.
 - Use `return` to return a result from the function.
 
-## Branching in Python
+## 5. Branching in Python
 Branching allows a program to make decisions based on conditions.  
 This is commonly done using `if`, `elif`, and `else` statements.
 
-### Comparison Operators
+### 5.1 Comparison Operators
 Comparison operators are used to compare two values.  
 They return a Boolean value: `True` or `False`.
 
@@ -105,7 +105,7 @@ They return a Boolean value: `True` or `False`.
 | `>=` | Greater than or equal to |
 | `<=` | Less than or equal to |
 
-### Using `if` Statements
+### 5.2 Using `if` Statements
 The `if` statement allows you to execute code only if a certain condition is `True`.
 ```python
 age = 18
