@@ -34,7 +34,9 @@ A **dictionary** is a collection of key-value pairs.
 Each item in a dictionary has a **key** and a **value**, and the key is used to access the value.  
 Dictionaries are **unordered**, **changeable**, and do not allow duplicate keys.
 
-![Cú pháp Dictionary](dictionary_syntax.png)  
+<p align="center">
+    <img src="dictionary_syntax.png" alt="Structure of a Python function ">
+</p>
 
 **<p align="center">Figure 1: Dictionary syntax breakdown: key-value pairs inside curly brackets</p>**
 
