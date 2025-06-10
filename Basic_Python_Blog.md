@@ -34,7 +34,11 @@ A **dictionary** is a collection of key-value pairs.
 Each item in a dictionary has a **key** and a **value**, and the key is used to access the value.  
 Dictionaries are **unordered**, **changeable**, and do not allow duplicate keys.
 
-![Dictionary Syntax](dictionary_syntax.png)
+<figure>
+    <img src="dictionary_syntax.png" alt="Cú pháp Dictionary">
+    <figcaption>Figure 1: Dictionary syntax breakdown: key-value pairs inside curly brackets</figcaption>
+</figure>
+
 
 
 Syntax:
