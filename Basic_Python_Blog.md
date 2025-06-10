@@ -2,7 +2,7 @@
 **Author:** Minh Phuoc  
 **Date:** June 2025  
 
-## Introduction
+## 1. Introduction
 Data types are fundamental in programming.  
 They define the kind of value a variable can hold.  
 In Python, these basic data types are used to store numbers, text, and logical values.
