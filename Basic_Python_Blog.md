@@ -34,14 +34,11 @@ A **dictionary** is a collection of key-value pairs.
 Each item in a dictionary has a **key** and a **value**, and the key is used to access the value.  
 Dictionaries are **unordered**, **changeable**, and do not allow duplicate keys.
 
-<figure>
-    <img src="dictionary_syntax.png" alt="Cú pháp Dictionary">
-    <figcaption>Figure 1: Dictionary syntax breakdown: key-value pairs inside curly brackets</figcaption>
-</figure>
+![Cú pháp Dictionary](dictionary_syntax.png)  
 
+**<p align="center">Figure 1: Dictionary syntax breakdown: key-value pairs inside curly brackets</p>**
 
-
-Syntax:
+Example:
 ```python
 # Create a dictionary with student information
 student = {
@@ -57,6 +54,12 @@ print(student["name"])  # Output: Alice
 ## Functions in Python
 A **function** is a reusable block of code that performs a specific task.  
 Functions help make your code organised, readable, and avoid repetition.
+
+<p align="center">
+    <img src="function_syntax.png" alt="Structure of a Python function ">
+</p>
+
+**<p align="center">Figure 2: Structure of a Python function</p>**
 
 You can define a function in Python using the `def` keyword:
 ```python
